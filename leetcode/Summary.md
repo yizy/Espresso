@@ -1,6 +1,11 @@
 # Summary
 
 ## Marks
+- *: classic 
+- #: pattern
+- x: mistake
+- ?: questions / no idea
+- @: later reading
 
 ## Solutions
 ### Hash
