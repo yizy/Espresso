@@ -1,4 +1,4 @@
-# Summary
+# Solutions
 
 ## Marks
 - *: classic 
