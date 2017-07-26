@@ -2,5 +2,6 @@
 
 ## Marks
 
-## Hash
+## Solutions
+### Hash
 - [Two Sum](https://leetcode.com/problems/two-sum)
