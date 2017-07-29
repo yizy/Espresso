@@ -17,6 +17,9 @@
 ### Bit
 - [Single Number](https://leetcode.com/problems/single-number)
 
+### Stack
+- [Min Stack](https://leetcode.com/problems/min-stack)
+
 ### Unsorted
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) #
 
