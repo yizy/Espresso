@@ -22,6 +22,7 @@
 
 ### Stack
 - [Min Stack](https://leetcode.com/problems/min-stack)
+- [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) * #
 
 ### List
 - [LRU Cache](https://leetcode.com/problems/lru-cache) * @
